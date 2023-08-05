@@ -1,0 +1,8 @@
+org.springframework.context.ApplicationContextInitializer=\
+  com.jackxu.initializer.JackApplicationContextInitializer
+
+org.springframework.context.ApplicationListener=com.jackxu.listener.JackStartingApplicationListener,\
+  com.jackxu.listener.JackStartedApplicationListener
+
+
+
